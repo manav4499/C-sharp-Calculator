@@ -4,7 +4,6 @@ I created this calculator for my C# assignment.
 
 ## Practical Demonstartion 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XGI0SLjm89k?si=i3NxkOGXHA20alhD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/XGI0SLjm89k?si=CmBO-8WXTPzx6Dku/0.jpg)](http://www.youtube.com/watch?v=XGI0SLjm89k?si=CmBO-8WXTPzx6Dku "Video Title")
 
 Thank you
